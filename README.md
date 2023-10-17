@@ -40,7 +40,10 @@ This Java project provides a console-based interface for ordering coffee with va
     Order Placement is Successful!
     ------------------------------
     --------------------
-    Cappuccino with Milk, Vanilla, Caramel
+    Cappuccino ($3.00)
+     + Milk ($0.50)
+     + Vanilla ($0.75)
+     + Caramel ($0.50)
 
     --------------------
     Total Cost: $4.75
