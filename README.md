@@ -32,11 +32,11 @@ This Java project provides a console-based interface for ordering coffee with va
 
 ## Example
 
-Enter Your Order (a/b/c/d): b
-Enter Additional Decorations (You can choose multiple options): acd
+  Enter Your Order (a/b/c/d): b
+  Enter Additional Decorations (You can choose multiple options): acd
 
-Would you like to order anything else? (y/N): n
-Order Placement is Successful!
+  Would you like to order anything else? (y/N): n
+  Order Placement is Successful!
 
-Cappuccino with Milk, Vanilla, Caramel
-Total Cost: $4.75
+  Cappuccino with Milk, Vanilla, Caramel
+  Total Cost: $4.75
